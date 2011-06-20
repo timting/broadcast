@@ -3,7 +3,7 @@ $:.push File.expand_path("../lib", __FILE__)
 require "broadcast/version"
 
 Gem::Specification.new do |s|
-  s.name        = "broadcast"
+  s.name        = "broadcast-core"
   s.version     = Broadcast::VERSION
   s.platform    = Gem::Platform::RUBY
   s.authors     = ["Marcin Bunsch", "Antek Piechnik"]
