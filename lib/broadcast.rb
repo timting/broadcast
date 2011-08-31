@@ -1,5 +1,6 @@
 require 'logger'
 require 'hashie'
+require 'broadcast/hashie_patch'
 
 class Broadcast
 
