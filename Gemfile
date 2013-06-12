@@ -3,7 +3,7 @@ source "http://rubygems.org"
 gemspec
 
 group :development, :test do
-  gem 'rake', '0.8.7'
+  gem 'rake'
   gem 'rspec'
 
   platforms :mri_18 do
